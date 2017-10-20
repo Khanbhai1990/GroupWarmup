@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fido",
+    "gender": "male",
+    "breed": "pointer"
+  },
+  {
+    "name": "Jim",
+    "gender": "male",
+    "breed": "poodle"
+  },
+  {
+    "name": "Bella",
+    "gender": "female",
+    "breed": "german"
+  }
+]
